@@ -2,6 +2,12 @@
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
+### Works done in this project:
+- Use reinforcement learning techniques: Q-learning algorithms.
+- Understand the environment and train the agent to operate in a specified environment.
+- Analyze and Evaluate the agent's performance.
+- Optimize the Q-learning algorithm, to ensure the increase in positive results.
+- Define an Optimal Policy for the agent.
 ### Install
 
 This project requires **Python 2.7** with the [pygame](https://www.pygame.org/wiki/GettingStarted
